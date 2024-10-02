@@ -1,0 +1,63 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+removed ‘run_NPA_DYFAMED.pbs.o5688421’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/axis_def_nemo.xml’ -> ‘./axis_def_nemo.xml’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/bathy_DYFAMED.nc’ -> ‘./bathy_DYFAMED.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/biodiv.conf’ -> ‘./biodiv.conf’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/biology.conf’ -> ‘./biology.conf’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/biomixing.conf’ -> ‘./biomixing.conf’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/CHLA_DYFAMED.nc’ -> ‘./CHLA_DYFAMED.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/context_nemo.xml’ -> ‘./context_nemo.xml’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/convert.conf’ -> ‘./convert.conf’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/CORE2_NY_Forcings_1d_DYFAMED.nc’ -> ‘./CORE2_NY_Forcings_1d_DYFAMED.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/CORE2_NY_Forcings_1m_DYFAMED.nc’ -> ‘./CORE2_NY_Forcings_1m_DYFAMED.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/CORE2_NY_Forcings_6h_DYFAMED.nc’ -> ‘./CORE2_NY_Forcings_6h_DYFAMED.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/domain_def_nemo.xml’ -> ‘./domain_def_nemo.xml’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/Dust_DYFAMED.nc’ -> ‘./Dust_DYFAMED.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/DustNew_DYFAMED.nc’ -> ‘./DustNew_DYFAMED.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/field_def_nemo-ice.xml’ -> ‘./field_def_nemo-ice.xml’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/field_def_nemo-innerttrc.xml’ -> ‘./field_def_nemo-innerttrc.xml’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/field_def_nemo-oce.xml’ -> ‘./field_def_nemo-oce.xml’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/field_def_nemo-pisces.xml’ -> ‘./field_def_nemo-pisces.xml’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/file_def_nemo.xml’ -> ‘./file_def_nemo.xml’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/forage_output_class.csv’ -> ‘./forage_output_class.csv’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/forcing.conf’ -> ‘./forcing.conf’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/Glodapv2.1_annual_l75_DYFAMED.nc’ -> ‘./Glodapv2.1_annual_l75_DYFAMED.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/grid.conf’ -> ‘./grid.conf’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/grid_def_nemo.xml’ -> ‘./grid_def_nemo.xml’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/habitat_bis.conf’ -> ‘./habitat_bis.conf’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/habitat.conf’ -> ‘./habitat.conf’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/InitTS_l75_DYFAMED.nc’ -> ‘./InitTS_l75_DYFAMED.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/iodef.xml’ -> ‘./iodef.xml’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/mesh_mask.nc’ -> ‘./mesh_mask.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/mpi.conf’ -> ‘./mpi.conf’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/namelist_cfg’ -> ‘./namelist_cfg’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/namelist_ice_ref’ -> ‘./namelist_ice_ref’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/namelist_pisces_cfg’ -> ‘./namelist_pisces_cfg’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/namelist_pisces_cfg_1w’ -> ‘./namelist_pisces_cfg_1w’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/namelist_pisces_cfg_2w’ -> ‘./namelist_pisces_cfg_2w’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/namelist_pisces_ref’ -> ‘./namelist_pisces_ref’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/namelist_ref’ -> ‘./namelist_ref’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/namelist_sediment_ref’ -> ‘./namelist_sediment_ref’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/namelist_top_cfg’ -> ‘./namelist_top_cfg’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/namelist_top_ref’ -> ‘./namelist_top_ref’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/namelist_trc_ref’ -> ‘./namelist_trc_ref’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/Ndep_DYFAMED.nc’ -> ‘./Ndep_DYFAMED.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/nemo.exe’ -> ‘./nemo.exe’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/obc.conf’ -> ‘./obc.conf’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/oope.conf’ -> ‘./oope.conf’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/output.conf’ -> ‘./output.conf’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/par_fr_gewex_clim_DYFAMED.nc’ -> ‘./par_fr_gewex_clim_DYFAMED.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/PISCES_monthly_l75_DYFAMED.nc’ -> ‘./PISCES_monthly_l75_DYFAMED.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/pmarge_etopo_DYFAMED.nc’ -> ‘./pmarge_etopo_DYFAMED.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/river_global_news_DYFAMED.nc’ -> ‘./river_global_news_DYFAMED.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/run_NPA_DYFAMED.pbs’ -> ‘./run_NPA_DYFAMED.pbs’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/runoff_DYFAMED.nc’ -> ‘./runoff_DYFAMED.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/Solubility_Mahowald_DYFAMED.nc’ -> ‘./Solubility_Mahowald_DYFAMED.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/time.conf’ -> ‘./time.conf’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/trophic-interactions.csv’ -> ‘./trophic-interactions.csv’
+‘/home1/datahome/mbelhare/NPA-coupling/DYFAMED/WOA2009_monthly_l75_DYFAMED.nc’ -> ‘./WOA2009_monthly_l75_DYFAMED.nc’
+The content of output_pisces_1w_mod has been deleted !!!
+The content of output_apecosm_1w_mod has been deleted !!!
+Wed Jun 21 10:44:28 GMT 2023
+Wed Jun 21 15:41:43 GMT 2023
