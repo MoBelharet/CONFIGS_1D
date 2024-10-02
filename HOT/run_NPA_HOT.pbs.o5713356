@@ -1,0 +1,63 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+removed ‘run_NPA_HOT.pbs.o5688422’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/axis_def_nemo.xml’ -> ‘./axis_def_nemo.xml’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/bathy_HOT.nc’ -> ‘./bathy_HOT.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/biodiv.conf’ -> ‘./biodiv.conf’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/biology.conf’ -> ‘./biology.conf’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/biomixing.conf’ -> ‘./biomixing.conf’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/CHLA_HOT.nc’ -> ‘./CHLA_HOT.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/context_nemo.xml’ -> ‘./context_nemo.xml’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/convert.conf’ -> ‘./convert.conf’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/CORE2_NY_Forcings_1d_HOT.nc’ -> ‘./CORE2_NY_Forcings_1d_HOT.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/CORE2_NY_Forcings_1m_HOT.nc’ -> ‘./CORE2_NY_Forcings_1m_HOT.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/CORE2_NY_Forcings_6h_HOT.nc’ -> ‘./CORE2_NY_Forcings_6h_HOT.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/domain_def_nemo.xml’ -> ‘./domain_def_nemo.xml’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/Dust_HOT.nc’ -> ‘./Dust_HOT.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/DustNew_HOT.nc’ -> ‘./DustNew_HOT.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/field_def_nemo-ice.xml’ -> ‘./field_def_nemo-ice.xml’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/field_def_nemo-innerttrc.xml’ -> ‘./field_def_nemo-innerttrc.xml’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/field_def_nemo-oce.xml’ -> ‘./field_def_nemo-oce.xml’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/field_def_nemo-pisces.xml’ -> ‘./field_def_nemo-pisces.xml’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/file_def_nemo.xml’ -> ‘./file_def_nemo.xml’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/forage_output_class.csv’ -> ‘./forage_output_class.csv’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/forcing.conf’ -> ‘./forcing.conf’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/Glodapv2.1_annual_l75_HOT.nc’ -> ‘./Glodapv2.1_annual_l75_HOT.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/grid.conf’ -> ‘./grid.conf’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/grid_def_nemo.xml’ -> ‘./grid_def_nemo.xml’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/habitat_bis.conf’ -> ‘./habitat_bis.conf’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/habitat.conf’ -> ‘./habitat.conf’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/InitTS_l75_HOT.nc’ -> ‘./InitTS_l75_HOT.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/iodef.xml’ -> ‘./iodef.xml’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/mesh_mask.nc’ -> ‘./mesh_mask.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/mpi.conf’ -> ‘./mpi.conf’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/namelist_cfg’ -> ‘./namelist_cfg’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/namelist_ice_ref’ -> ‘./namelist_ice_ref’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/namelist_pisces_cfg’ -> ‘./namelist_pisces_cfg’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/namelist_pisces_cfg_1w’ -> ‘./namelist_pisces_cfg_1w’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/namelist_pisces_cfg_2w’ -> ‘./namelist_pisces_cfg_2w’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/namelist_pisces_ref’ -> ‘./namelist_pisces_ref’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/namelist_ref’ -> ‘./namelist_ref’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/namelist_sediment_ref’ -> ‘./namelist_sediment_ref’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/namelist_top_cfg’ -> ‘./namelist_top_cfg’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/namelist_top_ref’ -> ‘./namelist_top_ref’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/namelist_trc_ref’ -> ‘./namelist_trc_ref’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/Ndep_HOT.nc’ -> ‘./Ndep_HOT.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/nemo.exe’ -> ‘./nemo.exe’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/obc.conf’ -> ‘./obc.conf’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/oope.conf’ -> ‘./oope.conf’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/output.conf’ -> ‘./output.conf’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/par_fr_gewex_clim_HOT.nc’ -> ‘./par_fr_gewex_clim_HOT.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/PISCES_monthly_l75_HOT.nc’ -> ‘./PISCES_monthly_l75_HOT.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/pmarge_etopo_HOT.nc’ -> ‘./pmarge_etopo_HOT.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/river_global_news_HOT.nc’ -> ‘./river_global_news_HOT.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/run_NPA_HOT.pbs’ -> ‘./run_NPA_HOT.pbs’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/runoff_HOT.nc’ -> ‘./runoff_HOT.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/Solubility_Mahowald_HOT.nc’ -> ‘./Solubility_Mahowald_HOT.nc’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/time.conf’ -> ‘./time.conf’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/trophic-interactions.csv’ -> ‘./trophic-interactions.csv’
+‘/home1/datahome/mbelhare/NPA-coupling/HOT/WOA2009_monthly_l75_HOT.nc’ -> ‘./WOA2009_monthly_l75_HOT.nc’
+The content of output_pisces_1w_mod has been deleted !!!
+The content of output_apecosm_1w_mod has been deleted !!!
+Wed Jun 21 10:44:29 GMT 2023
+Wed Jun 21 16:03:46 GMT 2023
